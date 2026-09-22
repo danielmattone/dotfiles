@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 155894313+danielmattone@users.noreply.github.com
+	name = Daniel Mattone
